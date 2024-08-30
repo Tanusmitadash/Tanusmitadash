@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tanusmitadash  
 - 👀 I’m interested in Data Science and Artificial intelligence.
-- 🌱 I’m currently learning R .
+- 🌱 I’m currently learning IoT and embedded firmware development.
 - 💞️ I’m looking to collaborate on someone who can help me in understanding Data Science and help me in same.
 - 📫 How to reach me ? gmail:tanudash94@gmail.com
 
